@@ -49,6 +49,6 @@ Then open the printed URL. Opening `index.html` directly also works in most brow
 
 <div align="center">
 
-Built by [Christoph Barton](https://christophbarton.com)
+Built by [Christoph Barton](https://christophbarton.com) · [More projects](https://github.com/ChristophBarton1)
 
 </div>
