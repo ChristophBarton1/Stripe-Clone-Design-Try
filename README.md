@@ -20,7 +20,7 @@ A design and front-end study that recreates the look and motion of Stripe's land
 
 > Personal learning project. Not affiliated with or endorsed by Stripe.
 
-## ✨ Highlights
+## Highlights
 
 - **WebGL shader hero:** a fragment shader with simplex noise and fractal Brownian motion that reacts to mouse movement.
 - **Canvas ribbons:** flowing gradient ribbons drawn on a 2D canvas with `requestAnimationFrame`.
@@ -29,13 +29,13 @@ A design and front-end study that recreates the look and motion of Stripe's land
 - **No build step at runtime:** the JSX is precompiled with Babel ahead of time, so the page runs on plain React UMD scripts. This cut the HTML from about 1.5 MB to about 32 KB.
 - **Details:** self-hosted DM Sans variable font, CSS custom-property theming, meta/Open Graph tags, a `<main>` landmark and contrast tweaks.
 
-## 🧱 Tech stack
+## Tech stack
 
 - React 18 (UMD, precompiled JSX)
 - WebGL / GLSL, Canvas 2D
 - HTML5, CSS3 (custom properties)
 
-## 🚀 Run locally
+## Run locally
 
 No install needed. Serve the folder with any static server:
 
